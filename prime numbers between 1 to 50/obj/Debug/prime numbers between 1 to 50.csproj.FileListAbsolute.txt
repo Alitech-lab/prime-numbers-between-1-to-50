@@ -1,0 +1,8 @@
+C:\Users\ali\source\repos\prime numbers between 1 to 50\bin\Debug\prime numbers between 1 to 50.exe.config
+C:\Users\ali\source\repos\prime numbers between 1 to 50\bin\Debug\prime numbers between 1 to 50.exe
+C:\Users\ali\source\repos\prime numbers between 1 to 50\bin\Debug\prime numbers between 1 to 50.pdb
+C:\Users\ali\source\repos\prime numbers between 1 to 50\obj\Debug\prime numbers between 1 to 50.csproj.AssemblyReference.cache
+C:\Users\ali\source\repos\prime numbers between 1 to 50\obj\Debug\prime numbers between 1 to 50.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali\source\repos\prime numbers between 1 to 50\obj\Debug\prime numbers between 1 to 50.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\prime numbers between 1 to 50\obj\Debug\prime numbers between 1 to 50.exe
+C:\Users\ali\source\repos\prime numbers between 1 to 50\obj\Debug\prime numbers between 1 to 50.pdb
